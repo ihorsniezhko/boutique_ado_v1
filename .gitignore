@@ -1,4 +1,9 @@
-.venv
-*sqlite3
+.idea/
+.vscode/
 *.pyc
-__pycache__
+__pycache__/
+db.sqlite3
+/media/
+/static/
+.env
+env.py
